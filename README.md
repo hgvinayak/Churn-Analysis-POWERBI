@@ -22,6 +22,7 @@ This Repository will focus on Churn Analysis on Bank customers data
 3. Customers having credit score less than 400 have 100% churn rate and maintaining the A/C balance between 1k to 10k
 4. Total 70% of the customers have owned the credit card.
 5. Customers having credit score more than 400 have churn rate of 19.7%.
+6. The overall churn rate is 20.4% and total customers of 10k.
 
 
 
