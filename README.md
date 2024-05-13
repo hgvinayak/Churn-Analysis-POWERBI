@@ -1,6 +1,8 @@
 # Churn-Analysis-POWERBI
 This Repository will focus on Churn Analysis on Bank customers data 
 
+❗ Churn rate : Means the rate at which we are losing the customers.
+
 🌱Objective : To analyse churn rate of the bank customers data and identify the diffrent metrics which is affecting the churn and providing the insights to the Business team to reduce the churn rate ultimately.
 
  ‼Tool : POWER BI 
